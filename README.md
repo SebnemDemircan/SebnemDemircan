@@ -6,7 +6,7 @@ Jr. Frontend Developer
 
 * 🌍  I'm based in Turkey, Izmir
 * ✉️  You can contact me at [hellosebnem@gmail.com](mailto:hellosebnem@gmail.com)
-* 🧠  I'm learning Vue.js
+* 🧠  I'm learning Javascript
 
 ### Skills
 
