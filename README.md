@@ -6,7 +6,7 @@ Frontend Developer
 
 * 🌍  I'm based in Turkey, Izmir
 * ✉️  You can contact me at [hellosebnem@gmail.com](mailto:hellosebnem@gmail.com)
-* 🧠  I'm learning Javascript
+* 🧠  I'm on my way to becoming a Full Stack Web Developer
 
 ### Skills
 
