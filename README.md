@@ -6,7 +6,7 @@ Frontend Developer
 
 * 🌍  I'm based in Turkey, Izmir
 * ✉️  You can contact me at [sendsebnem@gmail.com](mailto:sendsebnem@gmail.com)
-* 🧠  I'm working to be a Frontend Developer (React)
+* 🧠  I'm learning React.js 
 
 ### Skills
 
