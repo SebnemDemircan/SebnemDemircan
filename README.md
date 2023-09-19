@@ -6,7 +6,7 @@ Jr. Freelance Frontend Developer
 
 * 🌍  I'm based in Izmir,Turkey
 * ✉️  You can contact me at [sendsebnem@gmail.com](mailto:sendsebnem@gmail.com)
-* 🧠  I'm learning React.js
+* 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on Frontend Projects
 
 ### Skills
